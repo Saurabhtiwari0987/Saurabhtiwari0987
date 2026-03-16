@@ -1,48 +1,60 @@
 <h1 align="center">Hi 👋, I'm Saurabh Tiwari</h1>
 
+<h3 align="center">🚀 AWS Cloud & DevOps Engineer</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Cloud+%26+DevOps+Engineer;2%2B+Years+Experience+in+Cloud+%26+Networking;CI/CD+Pipeline+Automation;Docker+%7C+Kubernetes+%7C+Terraform&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+%26+DevOps+Engineer;2%2B+Years+Experience+in+Networking+%26+Cloud;CI/CD+Pipeline+Automation;Docker+%7C+Kubernetes+%7C+Terraform&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-Cloud & DevOps Engineer with **2+ years of experience in Networking and Cloud Technologies**.  
-Experienced in designing scalable cloud infrastructure on **AWS**, automating deployments, and building **CI/CD pipelines**.
+Cloud & DevOps Engineer with **2+ years of experience in Networking and Cloud Technologies**.
 
-Strong knowledge of **containerization, Infrastructure as Code, monitoring, and production environments**.
+I specialize in **AWS infrastructure, CI/CD automation, containerization, and scalable cloud architecture**.
 
-Focused on **automation, reliability, and continuous improvement** in modern DevOps environments.
+Focused on **automation, reliability, and modern DevOps practices**.
 
 ---
 
-# 🛠️ Tech Stack
+# ☁️ Cloud & AWS Services
 
-### ☁️ Cloud & AWS Services
-- AWS EC2
-- AWS VPC
-- AWS Load Balancer
-- Auto Scaling Groups (ASG)
-- AWS Lambda
-- AWS Databases
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![LoadBalancer](https://img.shields.io/badge/Load%20Balancer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AutoScaling](https://img.shields.io/badge/Auto%20Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 
-### ⚙️ DevOps Tools
-- Git
-- Docker
-- Kubernetes
-- Jenkins
-- Terraform
+---
 
-### 💻 Programming Language
-- JavaScript
+# ⚙️ DevOps Tools
 
-### 🖥 Backend
-- Node.js
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-### 🗄 Database
-- SQL  
-- MongoDB
+---
+
+# 💻 Programming
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+# 🖥 Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+# 🗄 Databases
+
+![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -72,36 +84,24 @@ Focused on **automation, reliability, and continuous improvement** in modern Dev
 
 # 🚀 Current Projects
 
-🔧 **Infrastructure as Code** – Building scalable infrastructure using Terraform  
+🔧 Infrastructure as Code – Building scalable infrastructure using Terraform  
 
-🐳 **Container Orchestration** – Managing microservices using Kubernetes  
+🐳 Container Orchestration – Managing microservices with Kubernetes  
 
-🚀 **CI/CD Pipelines** – Automating application deployments with Jenkins  
+🚀 CI/CD Pipelines – Automating deployments using Jenkins  
 
-🌐 **Full Stack Applications** – Building applications using Node.js and modern AI development tools  
+🌐 Full Stack Applications – Building applications using Node.js  
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 📧 Email: **saurabhkk0000@gmail.com**
 
-💼 LinkedIn: **Add Your LinkedIn Profile Link Here**
-
----
-
-# 🔥 Currently Learning
-
-☸️ Advanced Kubernetes  
-
-☁️ Advanced AWS Architecture  
-
-🔐 DevSecOps  
-
-🤖 AI assisted DevOps automation  
+💼 LinkedIn: **Add Your LinkedIn Link**
 
 ---
 
 <p align="center">
-⚡ "Automation is good, so long as you know exactly where to put the machine." ⚡
+🔥 DevOps | Cloud | Automation | CI/CD
 </p>
