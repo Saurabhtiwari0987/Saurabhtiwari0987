@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Saurabh Tiwari</h1>
+<h1 align="center">
+  <span style="color:#00FFFF;">Hi 👋, I'm</span> 
+  <span style="color:#FF9900;">Saurabh Tiwari</span>
+</h1>
 
-<h3 align="center">🚀 AWS Cloud & DevOps Engineer</h3>
+<h3 align="center">
+🚀 <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge&logo=azuredevops&logoColor=white">
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Cloud+%26+DevOps+Engineer;2%2B+Years+Experience+in+Networking+%26+Cloud;CI/CD+Pipeline+Automation;Docker+%7C+Kubernetes+%7C+Terraform&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+Cloud+%26+DevOps+Engineer;2%2B+Years+Experience+in+Networking+%26+Cloud;CI/CD+Pipeline+Automation;Docker+%7C+Kubernetes+%7C+Terraform&center=true&width=550&height=45&color=00FFFF&vCenter=true&size=22">
 </p>
 
 ---
@@ -82,15 +87,19 @@ Focused on **automation, reliability, and modern DevOps practices**.
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Current DevOps Projects
 
-🔧 Infrastructure as Code – Building scalable infrastructure using Terraform  
+🛠️ **Infrastructure as Code**
+> Building scalable cloud infrastructure using **Terraform**
 
-🐳 Container Orchestration – Managing microservices with Kubernetes  
+🐳 **Container Orchestration**
+> Managing microservices using **Docker & Kubernetes**
 
-🚀 CI/CD Pipelines – Automating deployments using Jenkins  
+⚡ **CI/CD Automation**
+> Automating deployments using **Git + Jenkins pipelines**
 
-🌐 Full Stack Applications – Building applications using Node.js  
+🌐 **Full Stack Applications**
+> Building modern applications using **Node.js and AI development tools**
 
 ---
 
