@@ -1,15 +1,134 @@
-# 💫 About Me:
-## 👋 Hi, I'm Saurabh Tiwari (Sunny)<br><br>**DevOps Engineer | Cloud & Network Infrastructure | AWS | Kubernetes | CI/CD**<br><br>Main ek DevOps Engineer hoon jiska background Network Engineering ka hai. Is wajah se mujhe cloud, networking aur automation, teeno ki practical understanding hai. Main AWS par scalable infrastructure banata hoon, CI/CD pipelines automate karta hoon aur containerized workloads manage karta hoon.<br><br>### 🔧 What I do<br>- ☁️ AWS par infra provision karta hoon: EC2, VPC, S3, IAM, RDS, ALB, Auto Scaling<br>- 🏗️ Terraform aur Ansible se Infrastructure as Code<br>- 🔁 Jenkins aur GitHub Actions se CI/CD pipelines<br>- 🐳 Docker, Docker Compose aur Kubernetes se containerization aur orchestration<br>- 📊 Prometheus, Grafana, CloudWatch aur ELK se monitoring aur logging<br>- 🐧 Linux administration (Ubuntu, CentOS, RHEL) aur Bash scripting<br><br>### 🚀 Highlights<br>- 15+ AWS EC2 instances staging aur production me manage kiye<br>- Terraform se manual environment setup time ~40% kam kiya<br>- CI/CD automation se deployment time 30%+ kam kiya<br>- Three-Tier AWS Architecture banaya: ALB, Auto Scaling, RDS Multi-AZ, public/private subnets, NAT Gateway<br><br>### 🛠️ Tech Stack<br>![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)<br>![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)<br>![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)<br>![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)<br>![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)<br>![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)<br>![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)<br><br>### 📜 Certifications<br>- Advanced DevOps & Cloud Computing, IIT Roorkee (via Intellipaat)<br>- AWS Certified Solutions Architect – Associate<br>- CCNA & CCNP (Ns3Edu)<br>- Linux Administration<br><br>### 📫 Connect with me<br>- 📧 saurabhkk0000@gmail.com<br>- 💼 LinkedIn: www.linkedin.com/in/saurabh-tiwari-devops<br>- 🌐 Portfolio: https://claude.ai/public/artifacts/ea4e6f38-24bd-48dd-9492-5dfc830423a8<br><br>> 💡 Always learning, always automating.
+<!-- ========== HEADER ========== -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:1f6feb&height=220&section=header&text=Saurabh%20Tiwari&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Network%20Infrastructure&descSize=18&descAlignY=60" width="100%" />
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Saurabhtiwari0987&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Saurabhtiwari0987&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saurabhtiwari0987&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/Saurabhtiwari0987">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Automating+everything+%E2%9A%99%EF%B8%8F;AWS+%E2%80%A2+Terraform+%E2%80%A2+Docker+%E2%80%A2+Kubernetes;CI%2FCD+with+Jenkins+%26+GitHub+Actions;Ex-Network+Engineer+%E2%86%92+DevOps+Engineer" alt="Typing SVG" />
+</a>
 
----
-[![](https://komarev.com/ghpvc/?username=Saurabhtiwari0987&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://www.linkedin.com/in/saurabh-tiwari-devops"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:saurabhkk0000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://claude.ai/public/artifacts/ea4e6f38-24bd-48dd-9492-5dfc830423a8"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<!-- ========== ABOUT ========== -->
+## 👨‍💻 About Me
+
+````yaml
+name: Saurabh Tiwari (Sunny)
+role: DevOps Engineer
+background: Network Engineering (CCNA / CCNP)
+location: Patna / Delhi NCR, India
+focus: [AWS, Terraform, Docker, Kubernetes, CI/CD]
+currently_building: ShopStack (microservices + Docker Compose + GitHub Actions)
+motto: "Always learning, always automating."
+````
+
+I'm a DevOps Engineer with a Network Engineering background, which gives me practical, hands-on understanding of cloud, networking, and automation together. I build scalable AWS infrastructure, automate CI/CD pipelines, and manage containerized workloads.
+
+<br/>
+
+<!-- ========== WHAT I DO ========== -->
+## 🔧 What I Do
+
+| | |
+|---|---|
+| ☁️ **Cloud** | AWS: EC2, VPC, S3, IAM, RDS, ALB, Auto Scaling, CloudWatch |
+| 🏗️ **IaC** | Terraform, Ansible |
+| 🔁 **CI/CD** | Jenkins, GitHub Actions |
+| 🐳 **Containers** | Docker, Docker Compose, Kubernetes |
+| 📊 **Monitoring** | Prometheus, Grafana, CloudWatch, ELK |
+| 🐧 **Linux & Scripting** | Ubuntu, CentOS, RHEL, Bash |
+
+<br/>
+
+<!-- ========== TECH STACK ========== -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,jenkins,githubactions,gitlab,git,github&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,nginx,apache,prometheus,grafana,elasticsearch,kibana&theme=dark" />
+
+</div>
+
+<br/>
+
+<!-- ========== HIGHLIGHTS ========== -->
+## 🚀 Highlights
+
+- ⚡ Managed **15+ AWS EC2 instances** across staging and production
+- 🏗️ Cut manual environment setup time by **~40%** using **Terraform**
+- 🔁 Reduced deployment time by **30%+** through CI/CD automation
+- 🧱 Built a **Three-Tier AWS Architecture** with ALB, Auto Scaling, RDS Multi-AZ, public/private subnets, and NAT Gateway
+
+<br/>
+
+<!-- ========== PROJECTS ========== -->
+## 📂 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 ShopStack</h3>
+      Polyglot microservices project covering GitFlow, Docker, Docker Compose, and GitHub Actions CI/CD.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,githubactions,git&theme=dark" /><br/><br/>
+      <a href="https://github.com/Saurabhtiwari0987/YOUR-SHOPSTACK-REPO">View Repo →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Three-Tier AWS Architecture</h3>
+      Web, app, and database tiers with ALB, Auto Scaling, RDS Multi-AZ, NAT Gateway, and strict network isolation.<br/><br/>
+      <img src="https://skillicons.dev/icons?i=aws,terraform,linux&theme=dark" /><br/><br/>
+      <a href="https://github.com/Saurabhtiwari0987/YOUR-AWS-REPO">View Repo →</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ========== CERTIFICATIONS ========== -->
+## 📜 Certifications
+
+![IIT Roorkee](https://img.shields.io/badge/Advanced%20DevOps%20%26%20Cloud-IIT%20Roorkee-1f6feb?style=for-the-badge)
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA%20%26%20CCNP-Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br/>
+
+<!-- ========== STATS ========== -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Saurabhtiwari0987&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabhtiwari0987&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Saurabhtiwari0987&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
+
+<br/>
+
+<!-- ========== FOOTER ========== -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a44,100:1f6feb&height=120&section=footer" width="100%" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=Saurabhtiwari0987&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)
+
+</div>
+````
+````
+
+Ek kaam baaki hai: `YOUR-SHOPSTACK-REPO` aur `YOUR-AWS-REPO` ko apne actual repo names se replace kar do.
+
+Chaho to main isko aur chhota "recruiter-friendly" version bana deta hoon, ya contribution snake animation add kar deta hoon.
